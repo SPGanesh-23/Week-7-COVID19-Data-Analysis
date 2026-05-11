@@ -143,10 +143,19 @@ EDA helps understand the global spread of COVID-19 and identify the most critica
 The project includes:
 
 - **Line Charts** – Confirmed cases and deaths over time
+<img width="1362" height="561" alt="image" src="https://github.com/user-attachments/assets/6d6a383c-f56f-41be-a2cc-5e27b389ed88" />
+
 - **Bar Charts** – Top affected countries by case count
+<img width="1365" height="559" alt="image" src="https://github.com/user-attachments/assets/73f43f21-9590-4179-a00b-ae74a409472c" />
+
 - **Pie Charts** – Distribution of confirmed, recovered, and active cases
+<img width="1363" height="559" alt="image" src="https://github.com/user-attachments/assets/34d1b927-096a-4bf9-b193-c0de4e8ce212" />
+
 - **Scatter Plots** – Relationships between case metrics
+<img width="1366" height="563" alt="image" src="https://github.com/user-attachments/assets/77ce691d-73b2-4ec6-a2b1-857cf60f7f05" />
+
 - **Heatmaps** – Correlation between features
+<img width="1361" height="556" alt="image" src="https://github.com/user-attachments/assets/6e61d3b1-32d0-4b01-8d26-a72fe16a7b07" />
 
 Visualizations make complex pandemic data easy to interpret and understand.
 
@@ -155,6 +164,7 @@ Visualizations make complex pandemic data easy to interpret and understand.
 ### **4. Interactive Dashboard**
 
 Built using **Plotly Dash**, the dashboard provides:
+<img width="1360" height="723" alt="image" src="https://github.com/user-attachments/assets/669ab1fa-69dd-41f8-93b7-a68ab570552d" />
 
 - Country dropdown for region-specific filtering
 - Date selection for time-range analysis
